@@ -2,7 +2,6 @@
 
 IT engineer working with Microsoft 365, identity, and endpoint management. Currently building toward cloud.
 
-- 🏠 Running a homelab with Proxmox, Pi-hole, and Tailscale
 - 🌱 Learning AWS (studying for Cloud Practitioner) and Terraform
 
 ### Tools
